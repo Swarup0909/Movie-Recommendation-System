@@ -1,5 +1,5 @@
 To run this project follow below steps 
-1. Open "Movie_Recommender_System (1)" in Jupyter Notebook.
+1. Open "Movie_Recommender_System (1)" file in Jupyter Notebook.
 2. Upload the 2 datasets in  your jupyter notebook current working directory.
 3. run all the cells in note book
 4. you will get two pickle files as movie.pkl & similarities.pkl
