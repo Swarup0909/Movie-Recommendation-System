@@ -8,4 +8,5 @@ To run this project follow below steps
 7. open file called app.py
 8. paste both pickle filr in pycharm PWD , and all the images in PWD 
 9. run ath app,py you get ypur movie recommendation system.
-10. enter your 
+10. enter your movie name , as result you will get 10 movies relates to your movie.
+11. That's it.
