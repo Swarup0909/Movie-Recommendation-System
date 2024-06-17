@@ -10,3 +10,4 @@ To run this project follow below steps
 9. run ath app,py you get ypur movie recommendation system.
 10. enter your movie name , as result you will get 10 movies relates to your movie.
 11. That's it.
+12. all deployment using streamlit web framwork
